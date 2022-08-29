@@ -32,15 +32,28 @@ header > h2{
     background-color:rgba(246, 255, 0, 1);
 }
 
-#table{
-    height: 200px;
+table{
+    border-collapse: collapse;
     width: 100%;
+    
 }
 
+td, th{
+    text-align: left;
+    padding: 10px;
+}
 
+thead{
+    background-color: rgb(9, 9, 211);
+}
 
+#color_raw{
+    background-color: rgb(15, 207, 207);
+}
 
-
+tfoot{
+    background-color: rgb(15, 207, 207);
+}
 
 
 
