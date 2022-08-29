@@ -36,3 +36,50 @@ header > h2{
     height: 200px;
     width: 100%;
 }
+
+
+
+
+
+
+
+
+footer > p{
+    color: rgb(141, 137, 137);
+}
+
+#img_computer{
+    background-image: url(/img/17.jpg);
+    background-position: center;
+    width: 300px;
+    height: 300px;
+    position: relative;
+    margin-bottom: 10px;
+}
+
+#img_computer > span{
+    color: rgb(250, 250, 250);
+    font-size: 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 30px;
+}
+
+#img_bolle{
+    background-image: url(/img/1661783250726.jpg);
+    background-position: center;
+    width: 300px;
+    height: 300px;
+    position: relative;
+}
+
+#img_bolle > span{
+    color: rgb(250, 250, 250);
+    font-size: 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 30px;
+}
+
