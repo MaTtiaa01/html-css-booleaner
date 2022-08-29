@@ -10,3 +10,8 @@ img{
 #scritto_da{
     color: blue;
 }
+
+.evidenziato{
+    background-color:rgba(246, 255, 0, 1);
+}
+
